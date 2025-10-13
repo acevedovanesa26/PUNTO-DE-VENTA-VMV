@@ -3,15 +3,35 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/motat/Downloads/SistemaDeventasCompleto/SistemaDeventas1/src/vista/FrmLogin.java</file>
-            <file>file:/C:/Users/motat/Downloads/SistemaDeventasCompleto/SistemaDeventas1/src/img/fondo2.jpg</file>
-            <file>file:/C:/Users/motat/Downloads/SistemaDeventasCompleto/SistemaDeventas1/src/vista/InterUsuario.java</file>
-            <file>file:/C:/Users/motat/Downloads/SistemaDeventasCompleto/SistemaDeventas1/src/vista/InterCategoria.java</file>
-            <file>file:/C:/Users/motat/Downloads/SistemaDeventasCompleto/SistemaDeventas1/src/img/fondo3.jpg</file>
-            <file>file:/C:/Users/motat/Downloads/SistemaDeventasCompleto/SistemaDeventas1/src/vista/FrmMenu.java</file>
-            <file>file:/C:/Users/motat/Downloads/SistemaDeventasCompleto/SistemaDeventas1/src/vista/InterCliente.java</file>
-            <file>file:/C:/Users/motat/Downloads/SistemaDeventasCompleto/SistemaDeventas1/src/controlador/VentaPDF.java</file>
-            <file>file:/C:/Users/motat/Downloads/SistemaDeventasCompleto/SistemaDeventas1/src/vista/InterActualizarStock.java</file>
+            <file>file:/C:/Users/motat/OneDrive/Documentos/NetBeansProjects/SistemaDeventasvmv/src/modelo/CabeceraVenta.java</file>
+            <file>file:/C:/Users/motat/OneDrive/Documentos/NetBeansProjects/SistemaDeventasvmv/src/controlador/Ctrl_Cliente.java</file>
+            <file>file:/C:/Users/motat/OneDrive/Documentos/NetBeansProjects/SistemaDeventasvmv/src/modelo/Categoria.java</file>
+            <file>file:/C:/Users/motat/OneDrive/Documentos/NetBeansProjects/SistemaDeventasvmv/src/vista/InterUsuario.java</file>
+            <file>file:/C:/Users/motat/OneDrive/Documentos/NetBeansProjects/SistemaDeventasvmv/src/controlador/VentaPDF.java</file>
+            <file>file:/C:/Users/motat/OneDrive/Documentos/NetBeansProjects/SistemaDeventasvmv/src/controlador/Ctrl_Usuario.java</file>
+            <file>file:/C:/Users/motat/OneDrive/Documentos/NetBeansProjects/SistemaDeventasvmv/src/vista/InterGestionarCliente.java</file>
+            <file>file:/C:/Users/motat/OneDrive/Documentos/NetBeansProjects/SistemaDeventasvmv/src/vista/InterActualizarStock.java</file>
+            <file>file:/C:/Users/motat/OneDrive/Documentos/NetBeansProjects/SistemaDeventasvmv/src/controlador/Ctrl_Categoria.java</file>
+            <file>file:/C:/Users/motat/OneDrive/Documentos/NetBeansProjects/SistemaDeventasvmv/src/vista/InterGestionarVentas.java</file>
+            <file>file:/C:/Users/motat/OneDrive/Documentos/NetBeansProjects/SistemaDeventasvmv/src/modelo/DetalleVenta.java</file>
+            <file>file:/C:/Users/motat/OneDrive/Documentos/NetBeansProjects/SistemaDeventasvmv/src/vista/FrmMenu.java</file>
+            <file>file:/C:/Users/motat/OneDrive/Documentos/NetBeansProjects/SistemaDeventasvmv/src/modelo/Producto.java</file>
+            <file>file:/C:/Users/motat/OneDrive/Documentos/NetBeansProjects/SistemaDeventasvmv/src/vista/InterCategoria.java</file>
+            <file>file:/C:/Users/motat/OneDrive/Documentos/NetBeansProjects/SistemaDeventasvmv/src/vista/InterGraficas.java</file>
+            <file>file:/C:/Users/motat/OneDrive/Documentos/NetBeansProjects/SistemaDeventasvmv/src/modelo/Cliente.java</file>
+            <file>file:/C:/Users/motat/OneDrive/Documentos/NetBeansProjects/SistemaDeventasvmv/src/controlador/Ctrl_RegistrarVenta.java</file>
+            <file>file:/C:/Users/motat/OneDrive/Documentos/NetBeansProjects/SistemaDeventasvmv/src/modelo/Usuario.java</file>
+            <file>file:/C:/Users/motat/OneDrive/Documentos/NetBeansProjects/SistemaDeventasvmv/src/controlador/Reportes.java</file>
+            <file>file:/C:/Users/motat/OneDrive/Documentos/NetBeansProjects/SistemaDeventasvmv/src/vista/InterProducto.java</file>
+            <file>file:/C:/Users/motat/OneDrive/Documentos/NetBeansProjects/SistemaDeventasvmv/src/vista/InterFacturacion.java</file>
+            <file>file:/C:/Users/motat/OneDrive/Documentos/NetBeansProjects/SistemaDeventasvmv/test/controlador/ReportesTest.java</file>
+            <file>file:/C:/Users/motat/OneDrive/Documentos/NetBeansProjects/SistemaDeventasvmv/src/vista/InterGestionarUsuario.java</file>
+            <file>file:/C:/Users/motat/OneDrive/Documentos/NetBeansProjects/SistemaDeventasvmv/src/vista/InterGestionarProducto.java</file>
+            <file>file:/C:/Users/motat/OneDrive/Documentos/NetBeansProjects/SistemaDeventasvmv/src/vista/InterGestionarCategoria.java</file>
+            <file>file:/C:/Users/motat/OneDrive/Documentos/NetBeansProjects/SistemaDeventasvmv/src/vista/InterGraficaVentas.java</file>
+            <file>file:/C:/Users/motat/OneDrive/Documentos/NetBeansProjects/SistemaDeventasvmv/src/vista/FrmLogin.java</file>
+            <file>file:/C:/Users/motat/OneDrive/Documentos/NetBeansProjects/SistemaDeventasvmv/src/vista/InterCliente.java</file>
+            <file>file:/C:/Users/motat/OneDrive/Documentos/NetBeansProjects/SistemaDeventasvmv/src/controlador/Ctrl_Producto.java</file>
         </group>
     </open-files>
 </project-private>

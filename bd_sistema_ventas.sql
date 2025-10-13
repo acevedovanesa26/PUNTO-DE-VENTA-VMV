@@ -67,5 +67,11 @@ totalPagar double(10,2) not null,
 estado int(1) not null
 );
 
+INSERT INTO tb_usuario (nombre, apellido, usuario, password, telefono, estado) 
+VALUES ('Administrador', 'Sistema', 'admin', 'admin123', '3214991520', 1);
+
+INSERT INTO tb_usuario (nombre, apellido, usuario, password, telefono, estado) 
+VALUES ('Vendedora', 'Vendedora', 'marce', 'marce123', '3214991520', 1);
+
 -- mostrar todas las tablas de mi base de datos
 show tables;
