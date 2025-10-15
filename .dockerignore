@@ -1,0 +1,9 @@
+# .dockerignore
+.git
+.gitignore
+node_modules
+*.log
+build/
+target/
+nbproject/private/
+dist/*.class

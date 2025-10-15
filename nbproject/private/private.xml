@@ -9,9 +9,12 @@
             <file>file:/C:/Users/motat/OneDrive/Documentos/NetBeansProjects/SistemaDeventasvmv/src/vista/InterUsuario.java</file>
             <file>file:/C:/Users/motat/OneDrive/Documentos/NetBeansProjects/SistemaDeventasvmv/src/controlador/VentaPDF.java</file>
             <file>file:/C:/Users/motat/OneDrive/Documentos/NetBeansProjects/SistemaDeventasvmv/src/controlador/Ctrl_Usuario.java</file>
+            <file>file:/C:/Users/motat/OneDrive/Documentos/NetBeansProjects/SistemaDeventasvmv/database/init.sql</file>
             <file>file:/C:/Users/motat/OneDrive/Documentos/NetBeansProjects/SistemaDeventasvmv/src/vista/InterGestionarCliente.java</file>
+            <file>file:/C:/Users/motat/OneDrive/Documentos/NetBeansProjects/SistemaDeventasvmv/Dockerfile-vnc</file>
             <file>file:/C:/Users/motat/OneDrive/Documentos/NetBeansProjects/SistemaDeventasvmv/src/vista/InterActualizarStock.java</file>
             <file>file:/C:/Users/motat/OneDrive/Documentos/NetBeansProjects/SistemaDeventasvmv/src/controlador/Ctrl_Categoria.java</file>
+            <file>file:/C:/Users/motat/OneDrive/Documentos/NetBeansProjects/SistemaDeventasvmv/Dockerfile</file>
             <file>file:/C:/Users/motat/OneDrive/Documentos/NetBeansProjects/SistemaDeventasvmv/src/vista/InterGestionarVentas.java</file>
             <file>file:/C:/Users/motat/OneDrive/Documentos/NetBeansProjects/SistemaDeventasvmv/src/modelo/DetalleVenta.java</file>
             <file>file:/C:/Users/motat/OneDrive/Documentos/NetBeansProjects/SistemaDeventasvmv/src/vista/FrmMenu.java</file>
@@ -20,9 +23,11 @@
             <file>file:/C:/Users/motat/OneDrive/Documentos/NetBeansProjects/SistemaDeventasvmv/src/vista/InterGraficas.java</file>
             <file>file:/C:/Users/motat/OneDrive/Documentos/NetBeansProjects/SistemaDeventasvmv/src/modelo/Cliente.java</file>
             <file>file:/C:/Users/motat/OneDrive/Documentos/NetBeansProjects/SistemaDeventasvmv/src/controlador/Ctrl_RegistrarVenta.java</file>
+            <file>file:/C:/Users/motat/OneDrive/Documentos/NetBeansProjects/SistemaDeventasvmv/.dockerignore</file>
             <file>file:/C:/Users/motat/OneDrive/Documentos/NetBeansProjects/SistemaDeventasvmv/src/modelo/Usuario.java</file>
             <file>file:/C:/Users/motat/OneDrive/Documentos/NetBeansProjects/SistemaDeventasvmv/src/controlador/Reportes.java</file>
             <file>file:/C:/Users/motat/OneDrive/Documentos/NetBeansProjects/SistemaDeventasvmv/src/vista/InterProducto.java</file>
+            <file>file:/C:/Users/motat/OneDrive/Documentos/NetBeansProjects/SistemaDeventasvmv/src/conexion/Conexion.java</file>
             <file>file:/C:/Users/motat/OneDrive/Documentos/NetBeansProjects/SistemaDeventasvmv/src/vista/InterFacturacion.java</file>
             <file>file:/C:/Users/motat/OneDrive/Documentos/NetBeansProjects/SistemaDeventasvmv/test/controlador/ReportesTest.java</file>
             <file>file:/C:/Users/motat/OneDrive/Documentos/NetBeansProjects/SistemaDeventasvmv/src/vista/InterGestionarUsuario.java</file>
@@ -32,6 +37,7 @@
             <file>file:/C:/Users/motat/OneDrive/Documentos/NetBeansProjects/SistemaDeventasvmv/src/vista/FrmLogin.java</file>
             <file>file:/C:/Users/motat/OneDrive/Documentos/NetBeansProjects/SistemaDeventasvmv/src/vista/InterCliente.java</file>
             <file>file:/C:/Users/motat/OneDrive/Documentos/NetBeansProjects/SistemaDeventasvmv/src/controlador/Ctrl_Producto.java</file>
+            <file>file:/C:/Users/motat/OneDrive/Documentos/NetBeansProjects/SistemaDeventasvmv/docker-compose.yml</file>
         </group>
     </open-files>
 </project-private>

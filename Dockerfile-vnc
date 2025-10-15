@@ -1,0 +1,24 @@
+# Dockerfile-vnc
+FROM dorowu/ubuntu-desktop-lxde-vnc:latest
+
+USER root
+WORKDIR /home/ubuntu/app
+
+# Instalar librerías nativas que Java Desktop necesita (resolver error libfreetype.so.6)
+RUN apt-get update && apt-get install -y --no-install-recommends \
+    libfreetype6 libxrender1 libxext6 libx11-6 libfontconfig1 fonts-dejavu-core libasound2 \
+    && rm -rf /var/lib/apt/lists/*
+
+# Copiar jar y librerías externas
+COPY dist/SistemaDeventas1.jar /home/ubuntu/app/SistemaDeventas1.jar
+COPY dist/lib /home/ubuntu/app/lib
+
+# Asegurar permisos
+RUN chown -R 1000:1000 /home/ubuntu/app
+USER 1000
+
+# Exponer puertos: 6080 noVNC, 5900 VNC (opcional)
+EXPOSE 6080 5900
+
+# Lanzar la aplicación al iniciar el contenedor
+CMD ["bash", "-lc", "java -jar /home/ubuntu/app/SistemaDeventas1.jar"]

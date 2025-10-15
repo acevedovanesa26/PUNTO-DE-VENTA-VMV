@@ -1,0 +1,42 @@
+version: '3.8'
+services:
+  mysql:
+    image: mysql:8.0
+    container_name: sv_mysql
+    environment:
+      MYSQL_ROOT_PASSWORD: "Vam2601*"
+      MYSQL_DATABASE: "bd_sistema_ventas"
+    ports:
+      - "3306:3306"
+    volumes:
+      - sv_mysql_data:/var/lib/mysql
+    healthcheck:
+      test: ["CMD", "mysqladmin","ping","-h","localhost"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+    networks:
+      - svnet
+
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile-vnc
+    image: sistemadeventas-vnc:latest
+    container_name: sv_app_vnc
+    depends_on:
+      - mysql
+    ports:
+      - "6080:6080"   # acceso noVNC via navegador
+      - "5900:5900"   # vnc (opcional)
+    environment:
+      - TZ=America/Bogota
+    networks:
+      - svnet
+
+volumes:
+  sv_mysql_data:
+
+networks:
+  svnet:
+    driver: bridge
